@@ -1,0 +1,111 @@
+2025-09-02 07:56:27,142 - INFO - Starting scraper and database insert.
+2025-09-02 07:56:27,142 - INFO - ====== WebDriver manager ======
+2025-09-02 07:56:28,759 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 07:56:28,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 07:56:29,101 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 07:56:45,791 - INFO - package: mysql.connector.plugins
+2025-09-02 07:56:45,791 - INFO - plugin_name: caching_sha2_password
+2025-09-02 07:56:45,791 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-02 07:56:50,132 - INFO - Task completed successfully. Database connection closed.
+2025-09-02 08:14:57,290 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:14:57,290 - INFO - ====== WebDriver manager ======
+2025-09-02 08:14:58,914 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:14:59,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:14:59,348 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:15:16,963 - INFO - package: mysql.connector.plugins
+2025-09-02 08:15:16,964 - INFO - plugin_name: caching_sha2_password
+2025-09-02 08:15:16,964 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-02 08:15:21,363 - INFO - Task completed successfully. Database connection closed. 2025-09-02 08:15:17.053665
+2025-09-02 08:15:21,364 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:15:21,364 - INFO - ====== WebDriver manager ======
+2025-09-02 08:15:23,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:15:23,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:15:23,415 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:15:41,040 - INFO - Task completed successfully. Database connection closed. 2025-09-02 08:15:41.034620
+2025-09-02 08:15:41,041 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:15:41,041 - INFO - ====== WebDriver manager ======
+2025-09-02 08:15:42,784 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:15:47,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:15:47,193 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:16:09,260 - INFO - Task completed successfully. Database connection closed. 2025-09-02 08:16:05.016633
+2025-09-02 08:17:10,486 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:17:10,486 - INFO - ====== WebDriver manager ======
+2025-09-02 08:17:12,138 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:17:12,377 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:17:12,588 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:17:30,133 - INFO - package: mysql.connector.plugins
+2025-09-02 08:17:30,133 - INFO - plugin_name: caching_sha2_password
+2025-09-02 08:17:30,133 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-02 08:17:34,607 - INFO - Task completed successfully. Database connection closed. 2025-08-28 00:00:00
+2025-09-02 08:17:34,608 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:17:34,609 - INFO - ====== WebDriver manager ======
+2025-09-02 08:17:36,380 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:17:36,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:17:36,682 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:17:58,821 - INFO - Task completed successfully. Database connection closed. 2025-08-31 00:00:00
+2025-09-02 08:17:58,822 - INFO - Starting scraper and database insert. has been started
+2025-09-02 08:17:58,822 - INFO - ====== WebDriver manager ======
+2025-09-02 08:18:00,637 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:18:00,773 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-02 08:18:00,908 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-02 08:18:23,128 - INFO - Task completed successfully. Database connection closed. 2025-09-01 00:00:00
+2025-09-03 10:07:36,849 - INFO - Starting scraper and database insert. has been started
+2025-09-03 10:07:36,851 - INFO - ====== WebDriver manager ======
+2025-09-03 10:07:38,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:07:39,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:07:40,268 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:07:44,293 - INFO - WebDriver version 139.0.7258.154 selected
+2025-09-03 10:07:44,296 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-09-03 10:07:44,297 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-09-03 10:07:44,853 - INFO - Driver downloading response is 200
+2025-09-03 10:07:59,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:08:00,868 - INFO - Driver has been saved in cache [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154]
+2025-09-03 10:08:20,747 - INFO - package: mysql.connector.plugins
+2025-09-03 10:08:20,747 - INFO - plugin_name: caching_sha2_password
+2025-09-03 10:08:20,747 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 10:08:26,347 - INFO - Task completed successfully. Database connection closed. 2025-09-02 00:00:00
+2025-09-03 10:09:05,894 - INFO - Starting scraper and database insert. has been started
+2025-09-03 10:09:05,895 - INFO - ====== WebDriver manager ======
+2025-09-03 10:09:07,519 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:09:07,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 10:09:07,881 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-03 10:09:42,341 - INFO - package: mysql.connector.plugins
+2025-09-03 10:09:42,341 - INFO - plugin_name: caching_sha2_password
+2025-09-03 10:09:42,342 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 10:09:46,807 - INFO - Task completed successfully. Database connection closed. 2025-09-03 00:00:00
+2025-09-03 16:01:58,861 - INFO - Starting scraper and database insert. has been started
+2025-09-03 16:01:58,862 - INFO - ====== WebDriver manager ======
+2025-09-03 16:02:00,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:02:00,980 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:02:01,235 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-03 16:02:18,081 - INFO - package: mysql.connector.plugins
+2025-09-03 16:02:18,081 - INFO - plugin_name: caching_sha2_password
+2025-09-03 16:02:18,081 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 16:02:23,676 - INFO - Task completed successfully. Database connection closed. 2025-09-03 00:00:00
+2025-09-03 16:02:46,035 - INFO - Starting scraper and database insert. has been started
+2025-09-03 16:02:46,036 - INFO - ====== WebDriver manager ======
+2025-09-03 16:02:47,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:02:47,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:02:48,179 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-03 16:03:08,638 - INFO - package: mysql.connector.plugins
+2025-09-03 16:03:08,638 - INFO - plugin_name: caching_sha2_password
+2025-09-03 16:03:08,638 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 16:03:13,118 - INFO - Task completed successfully. Database connection closed. 2025-09-03 00:00:00
+2025-09-03 16:03:48,699 - INFO - Starting scraper and database insert. has been started
+2025-09-03 16:03:48,700 - INFO - ====== WebDriver manager ======
+2025-09-03 16:03:50,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:03:51,664 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:03:52,101 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-03 16:04:19,192 - INFO - package: mysql.connector.plugins
+2025-09-03 16:04:19,193 - INFO - plugin_name: caching_sha2_password
+2025-09-03 16:04:19,193 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 16:04:23,697 - INFO - Task completed successfully. Database connection closed. 2025-09-03 16:03:48.699910
+2025-09-03 16:49:51,349 - INFO - Starting scraper and database insert. has been started
+2025-09-03 16:49:51,351 - INFO - ====== WebDriver manager ======
+2025-09-03 16:49:53,428 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:49:53,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-03 16:49:54,136 - INFO - Driver [C:\Users\Acer\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-03 16:50:12,707 - INFO - package: mysql.connector.plugins
+2025-09-03 16:50:12,707 - INFO - plugin_name: caching_sha2_password
+2025-09-03 16:50:12,707 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-03 16:50:17,541 - INFO - Task completed successfully. Database connection closed. 2025-09-03 16:49:51.349977
