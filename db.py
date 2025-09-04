@@ -52,6 +52,25 @@ def get_mysql_connection():
     return conn
 
 
+from sqlalchemy import create_engine
+import pandas as pd
+
+def get_sqlalchemy_engine():
+    """Create SQLAlchemy engine using the same MySQL credentials."""
+    user = "root"
+    password = "root"
+    host = "localhost"
+    port = 3306
+    database = "nepse"
+
+    # Using mysql-connector driver
+    engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}:{port}/{database}")
+    return engine
+
+
+
+
+
 def insert_data_for_date(date, conn):
     """
     Inserts data from the CSV file for a given date into a MySQL database.

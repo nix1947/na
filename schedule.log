@@ -109,3 +109,27 @@
 2025-09-03 16:50:12,707 - INFO - plugin_name: caching_sha2_password
 2025-09-03 16:50:12,707 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
 2025-09-03 16:50:17,541 - INFO - Task completed successfully. Database connection closed. 2025-09-03 16:49:51.349977
+2025-09-04 08:05:52,978 - INFO - package: mysql.connector.plugins
+2025-09-04 08:05:52,980 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:05:52,980 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:11:01,704 - INFO - package: mysql.connector.plugins
+2025-09-04 08:11:01,705 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:11:01,705 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:11:31,325 - INFO - package: mysql.connector.plugins
+2025-09-04 08:11:31,325 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:11:31,325 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:12:22,033 - INFO - package: mysql.connector.plugins
+2025-09-04 08:12:22,033 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:12:22,033 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:30:48,276 - INFO - package: mysql.connector.plugins
+2025-09-04 08:30:48,277 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:30:48,277 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:37:13,733 - INFO - package: mysql.connector.plugins
+2025-09-04 08:37:13,733 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:37:13,733 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:38:14,951 - INFO - package: mysql.connector.plugins
+2025-09-04 08:38:14,952 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:38:14,952 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-09-04 08:39:28,965 - INFO - package: mysql.connector.plugins
+2025-09-04 08:39:28,966 - INFO - plugin_name: caching_sha2_password
+2025-09-04 08:39:28,966 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
